@@ -1,1 +1,2 @@
-"Este ‚ um exerc¡cio de Git." 
+"Este â€š um exercÂ¡cio de Git." 
+"EDITADO"
